@@ -1,1 +1,1 @@
-# GSCashierApp
+# Gas Station Cashier App
